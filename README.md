@@ -1,2 +1,4 @@
 # hello-world
-This is Nishant's first Git repository!
+
+Hello all ... 
+I made changes to this file in a branch!
